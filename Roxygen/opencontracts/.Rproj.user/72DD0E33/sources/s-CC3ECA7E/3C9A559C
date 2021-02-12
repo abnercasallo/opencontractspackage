@@ -1,0 +1,26 @@
+{
+    "id": "3C9A559C",
+    "path": "D:/GITHUB/BESTMD/contrataciones-estado-emergencia/Roxygen/opencontracts/data-raw/DATASET.R",
+    "project_path": "data-raw/DATASET.R",
+    "type": "r_source",
+    "hash": "2779891035",
+    "contents": "",
+    "dirty": false,
+    "created": 1613158697492.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1613158823,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613158823942,
+    "read_only": false,
+    "read_only_alternatives": []
+}
